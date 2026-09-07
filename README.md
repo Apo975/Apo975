@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi there
+### 🧑‍💻 关于我
+我是一名计算机专业24级本科生。
 
-<!--
-**Apo975/Apo975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+兴趣爱好：健身，金铲铲。
 
-Here are some ideas to get you started:
+---
+### 🛠️ 技能、成果与实践经历
+#### ✅ 已掌握的知识与能力
+- 编程语言：熟练使用 Python，掌握C/C++以及Java基础语法，了解简单Web开发
+- 计算机基础：数据结构、计算机网络、操作系统基础；具备基础算法解题能力
+- 工具：Git、Linux基础命令，Claude Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 实践经历与成果
+1. 完成数学建模代码部分及专业课程大作业，掌握基本编程能力
+2. 参与学科竞赛，获得多项数学建模奖项，锻炼逻辑与团队协作
+
+#### 🎯 感兴趣的技术方向
+人工智能应用、后端开发、高性能计算。
+
+#### 📖 希望继续学习的知识
+深度学习原理、系统底层开发、分布式架构，进一步提升工程代码能力。
+
+#### 📝 自我评估
+具备一定的理论基础，动手实践能力仍需加强；擅长逻辑思考，项目工程化、大型项目经验不足，后续需多做实战项目补齐短板。
+
+
+---
+### 📅 未来三年发展规划
+我的目标：备考计算机专业考研。
+**理由**：
+1. 希望进一步深耕计算机领域，深入学习底层与前沿技术，提升专业上限；
+2. 本科阶段打下了不错的理论基础，希望通过研究生阶段接触更多科研与工程项目；
+3. 研究生学历能够带来更多优质的平台与发展机会。
+
+
+---
+### 📫 How to reach me
+- Email：2669876037@qq.com
